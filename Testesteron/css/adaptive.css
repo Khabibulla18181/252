@@ -1,0 +1,116 @@
+@media screen and (max-width:1400px) {
+    nav ul li a{
+        font-size: 30px;
+    }
+
+    .auth button{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:1400px) {
+    nav ul li a{
+        font-size: 26px;
+    }
+
+    .auth button{
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:970px) {
+    nav ul li a{
+        font-size: 22px;
+    }
+
+    .auth button{
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:902px) {
+    nav ul li a{
+        font-size: 20px;
+    }
+
+    .auth button{
+        font-size: 13px;
+    }
+}
+
+
+@media screen and (max-width:880px) {
+    nav ul li a{
+        font-size: 20px;
+    }
+
+    .auth button{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    nav,
+    .auth{
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    nav,
+    .auth {
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width:856px) {
+    nav ul li a{
+        font-size: 15px;
+    }
+
+    .auth button{
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:762px) {
+    nav ul li a{
+        font-size: 13px;
+    }
+
+    .auth button{
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:722px) {
+    nav ul li a{
+        font-size: 11px;
+    }
+
+    .auth button{
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width:878px) {
+    nav ul li a{
+        font-size: 17px;
+    }
+
+    .auth button{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    nav ul li a{
+        font-size: 13px;
+    }
+
+    .auth button{
+        font-size: 15px;
+    }
+}
